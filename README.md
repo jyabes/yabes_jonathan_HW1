@@ -8,7 +8,7 @@ I am Jonathan, and I am from Philippines. I am happily married with two lovely k
 
 I won an Accolade International Award in San Diego California by entering a professional videography contest. I showcased my best work in wedding story, highlighting my creative vision and storytelling abilities.
 
-<img src="photos/accolade_award.jpg" width=200>
+<img src="photos/accolade_award.jpg" width=400>
 
 # TRAVEL: 
 
